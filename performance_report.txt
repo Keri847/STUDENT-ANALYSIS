@@ -1,0 +1,26 @@
+STUDENT PERFORMANCE REPORT
+========================================================================
+ID       NAME                CATEGORY        AVERAGE  GRADE   SCHOLARSHIP
+------------------------------------------------------------------------
+ST001    Roshi Lorenzo       Undergraduate     82.75      A      Eligible
+ST002    Waire Lehazel       Postgraduate      66.25      B  Not eligible
+ST003    Moris Mosor         Undergraduate     91.50      A      Eligible
+ST004    Joyel Lengaur       Undergraduate     57.50      C  Not eligible
+ST005    Nasieku Leriano     Postgraduate      83.25      A      Eligible
+------------------------------------------------------------------------
+CLASS SUMMARY
+Total Students: 5
+Class Average: 76.25%
+Highest Performer: Moris Mosor (91.50%)
+Lowest Performer: Joyel Lengaur (57.50%)
+
+GRADE SCALE
+A: 75-100
+B: 65-74
+C: 55-64
+D: 45-54
+F: Below 45
+
+SCHOLARSHIP REQUIREMENTS
+Undergraduate: 75% and above
+Postgraduate: 78% and above
